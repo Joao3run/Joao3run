@@ -1,6 +1,7 @@
+### Hi there 👋
+
 ![Error GIF](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)
 
-### Hi there 👋
 
 I'm software developer an undergraduate software engineering student.
 
