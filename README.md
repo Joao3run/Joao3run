@@ -34,7 +34,9 @@ I'm software developer an undergraduate software engineering student.
 
 ### You can find in me in the web 🌍
 
-<img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white&link=https://www.linkedin.com/in/joao-brun/"> <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/power_ofthe_mind/">
+<a href="https://www.linkedin.com/in/joao-brun/" target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white" alt="Linkedin"></a>
+<a href="https://www.instagram.com/power_ofthe_mind/" target="_blank"><img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
+
 <!--
 **Joao3run/Joao3run** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
