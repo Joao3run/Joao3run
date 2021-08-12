@@ -1,5 +1,40 @@
+![Error GIF](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)
+
 ### Hi there 👋
 
+I'm software developer an undergraduate software engineering student.
+
+
+
+### Tech & Tools Preference
+
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Dart-01ccb4?style=flat&logo=dart&logoColor=ffffff"> <img src="https://img.shields.io/badge/-TypeScript-005399?style=flat&logo=typescript&LogoColor=fff">
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-React Native-000000?style=flat&logo=react&logoColor=00c8ff"> 
+<img src="https://img.shields.io/badge/-Spring-6aad3d?style=flat&logo=spring&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Flutter-005399?style=flat&logo=flutter&logoColor=FFFFFF">
+
+<img src="https://img.shields.io/badge/-PostgreSQL-0047AB?style=flat&logo=postgresql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+
+
+<img src="http://img.shields.io/badge/-Intellij IDEA-black?style=flat&logo=intellijidea&logoColor=white"> <img src="http://img.shields.io/badge/-WebStorm-267d94?style=flat&logo=webstorm&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-flat&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/-XCode-222222?style=flat&logo=XCode&logoColor=1575F9">
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-flat&logo=chartdotjs&logoColor=white">
+
+
+
+
+
+### You can find in me in the web 🌍
+
+<img src="http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white&link=https://www.linkedin.com/in/joao-brun/"> <img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/power_ofthe_mind/">
 <!--
 **Joao3run/Joao3run** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
