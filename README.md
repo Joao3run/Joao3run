@@ -3,8 +3,7 @@
 ![Error GIF](https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif)
 
 
-I'm software developer an undergraduate software engineering student.
-
+I'm software developer, degree software engineering.
 
 
 ### Tech & Tools Preference
