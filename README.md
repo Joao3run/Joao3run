@@ -31,6 +31,7 @@ Software Engineer
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
 ![SVN](https://img.shields.io/badge/-SVN-333333?logo=git&logoColor=F05032&style=flat)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![Git Flow](https://img.shields.io/badge/Git%20Flow-333333.svg?logo=git)
 
 
 ### You can find in me in the web 🌍
