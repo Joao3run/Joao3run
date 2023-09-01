@@ -9,7 +9,7 @@ Software Engineer
 ### Tech & Tools Preference
 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-<img src="https://img.shields.io/badge/-Dart-01ccb4?style=flat&logo=dart&logoColor=ffffff"> <img src="https://img.shields.io/badge/-TypeScript-005399?style=flat&logo=typescript&LogoColor=fff"> ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+<img src="https://img.shields.io/badge/-Dart-01ccb4?style=flat&logo=dart&logoColor=ffffff"> <img src="https://img.shields.io/badge/-TypeScript-005399?style=flat&logo=typescript&LogoColor=fff">
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
